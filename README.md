@@ -17,17 +17,27 @@ binwalk repo : www.github.com/ReFirmLabs/binwalk
 
 Steps to setup...
  
- > Install Python 2.7 for Windows from www.python.org
- > Install lzma module by entering the command "pip install backports.lzma" https://pypi.org/project/backports.lzma/
- > Download binwalk zip from binwalk repo at GitHub
- > Extract and Open the directory and Open cmd there.
- > Enter "python setup.py install", binwalk will be installed.
+ 
+Install Python 2.7 for Windows from www.python.org
 
- > Now, Download the binwalk.py script from here and keep it in a isolated folder at Desktop.
- > Open cmd in the above folder and enter "pip install pyinstaller", pyinstaller get installed.
- > Enter "pyinstaller --onefile binwalk.py", This will create an executable (.exe) of binwalk.py
- > Navigate to dist folder inside current folder where you can find the executable file, Copy it to "C:\Windows\System32\"
- > Now you can remove the previously created folder at Desktop.
+Install lzma module by entering the command "pip install backports.lzma" https://pypi.org/project/backports.lzma/
+
+Download binwalk zip from binwalk repo at GitHub
+
+Extract and Open the directory and Open cmd there.
+
+Enter "python setup.py install", binwalk will be installed.
+
+
+Now, Download the binwalk.py script from here and keep it in a isolated folder at Desktop.
+
+Open cmd in the above folder and enter "pip install pyinstaller", pyinstaller get installed.
+
+Enter "pyinstaller --onefile binwalk.py", This will create an executable (.exe) of binwalk.py
+
+Navigate to dist folder inside current folder where you can find the executable file, Copy it to "C:\Windows\System32\"
+
+Now you can remove the previously created folder at Desktop.
  
  #Done!
   Open cmd from the directory with the file to decrypt and run it as usual.
