@@ -11,7 +11,9 @@ binwalk repo : www.github.com/ReFirmLabs/binwalk
    Coded By : Jowin John Chemban                
                                                 
    GitHub   : www.github.com/jowinjohnchemban/
+   
    Twitter  : www.twitter.com/jowinchemban/
+   
    Donate   : www.paypal.me/jowinjohnchemban
 
 
