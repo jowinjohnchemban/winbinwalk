@@ -22,7 +22,7 @@ Steps to setup...
  
 Install Python 2.7 for Windows from www.python.org
 
-Install lzma module by entering the command "pip install backports.lzma" https://pypi.org/project/backports.lzma/
+Install python-lzma module
 
 Download binwalk zip from binwalk repo at GitHub
 
