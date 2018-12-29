@@ -40,7 +40,11 @@ Navigate to dist folder inside current folder where you can find the executable 
 Now you can remove the previously created folder at Desktop.
  
  
-# Done
+
+
+
+
+
   Open cmd from the directory with the file to decrypt and run it as usual.
   
   
