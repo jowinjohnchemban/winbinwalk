@@ -9,6 +9,6 @@ os.system(command)
 # execute the binwalk.
 # eg: If user input "binwalk file.bin" as command via cmd
 #     this program will make it execute as "python binwalk file.bin"
-# Thus make it possible to execute easily.
+# Thus making it possible to execute easily.
 
 # ReFirmLabs binwalk repo : https://github.com/ReFirmLabs/binwalk
