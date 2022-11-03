@@ -1,7 +1,7 @@
 import os
 import sys
 
-strl = ''.join(sys.argv[1:])
+strl = ' '.join(sys.argv[1:])
 command = 'python "C:\\Program Files\\Python37\\Scripts\\binwalk" ' + strl
 os.system(command)
 
